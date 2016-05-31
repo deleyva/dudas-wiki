@@ -12,3 +12,4 @@
 * Tener una wiki de aspecto corporativo cuidado.
 * Que los vídeos alojados en youtube se puedan ver dentro de la wiki.
 
+{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
