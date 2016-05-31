@@ -6,7 +6,7 @@
 Define a variable `x` equal to 10.
 {% initial %}
 var x =
-{% solución %}
+{% solution %}
 var x = 10;
 {% validation %}
 assert(x == 10);
