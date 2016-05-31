@@ -1,8 +1,7 @@
 {
     "plugins": [
         "youtube",
-        "exercises",
-        "disqus"
+        "exercises"
     ],
     "pluginsConfig": {}
 }
