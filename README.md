@@ -1,3 +1,3 @@
-# Este es un resumen de las dudas
+# Este es un resumen de las dudas sobre wiki
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+En este documento resumiré lo que quiero conseguir con la wiki (utilizando mediaWiki), documentando los cambios que he ido realizando, los problemas que he ido encontrando y otras dudas que me vayan surgiendo.
