@@ -1,4 +1,4 @@
-# Potencial de Gitbook
+# Características de Gitbook
 
 *Tienes una copia muy sencilla en markdown en local.
 *Editor muy sencillo offline.
