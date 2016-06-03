@@ -6,4 +6,5 @@
 * [Cambios introducidos en la wiki](cambios_introducidos_en_la_wiki.md)
 * [Pruebas de plugins](pruebas_de_plugins.md)
 * [Características de GitBook](potencial_de_gitbook.md)
+* Características de mediaWiki
 
