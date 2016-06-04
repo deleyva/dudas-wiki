@@ -6,4 +6,4 @@
 * ¿No puedo acceder por ssh? ¿Cómo puedo entonces hacer lo siguiente?
   * https://www.mediawiki.org/wiki/Extension:Scribunto
   * La importación ha fallado: No handler for model 'Scribunto' registered in $wgContentHandlers
-* Instala DataTransfer
+* He instalado DataTransfer, pero no va.
