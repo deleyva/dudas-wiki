@@ -7,5 +7,5 @@
 * [Pruebas de plugins](pruebas_de_plugins.md)
 * [Características de GitBook](potencial_de_gitbook.md)
 * [Características de mediaWiki](caracteristicas_de_mediawiki.md)
-* Diario Wiki
+* [Diario Wiki](diario_wiki.md)
 
