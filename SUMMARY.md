@@ -8,5 +8,5 @@
 * [Características de GitBook](potencial_de_gitbook.md)
 * [Características de mediaWiki](caracteristicas_de_mediawiki.md)
 * [Diario Wiki](diario_wiki.md)
-* Instalación en VirtualBox Linux Mint
+* [Instalación en VirtualBox Linux Mint](instalacion_en_virtualbox_linux_mint.md)
 
