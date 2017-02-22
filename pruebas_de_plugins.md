@@ -1,6 +1,6 @@
 # Pruebas de plugins
 
-{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
 
 {% exercise %}
 Define a variable `x` equal to 10.
