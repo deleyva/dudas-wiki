@@ -2,7 +2,9 @@
 
 En este documento resumiré lo que quiero conseguir con la wiki \(utilizando mediaWiki\), documentando los cambios que he ido realizando, los problemas que he ido encontrando y otras dudas que me vayan surgiendo.
 
-{% include "[https://raw.githubusercontent.com/GitbookIO/documentation/master/README.md](https://raw.githubusercontent.com/GitbookIO/documentation/master/README.md)" %}
+{% include "dudas.md" %}
+
+
 
 
 
